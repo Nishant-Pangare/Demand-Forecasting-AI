@@ -3,8 +3,7 @@ aiohttp
 aioitertools 
 aiosignal 
 alabaster 
-altair 
-anaconda-anon-usage==0.4.4 
+altair  
 anaconda-catalogs 
 anaconda-client
 anaconda-cloud-auth
